@@ -1,16 +1,42 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Data driven strategies to improve green policies
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+----
 
-What else do you need?
+#### Expertise
+* Remote sensingiven strategies to improve gre
+* Machine Learning
+* GIS
+* software project management
 
-### my history
+![](https://56eo.github.io/assets/images/workshape.png)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<br/>
+#### Computing stack
+* Python - ipython,scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
+* R - ML view: gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.
+* Web development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter.
+* Strong experience with REST APIs.
+* Linux - Git, bash/zsh, sge/torque/pbs, CI(travis/wercker), vagrant, ansible.
+* Cloud - AWS, Google
+* Containers - docker, kubernetes, ECS
+* ETL - Luigi, Airflow
+* Backends - Elasticsearch, sqlite
+
+<br/>
+#### Contributor to open source projects:
+- [QGIS][]
+- [CARTO][]
+- [Google Earth Engine][]
+
+
+
+
+
+[QGIS]: https://www.qgis.org/en/site/
+[CARTO]: https://carto.com/
+[Google Earth Engine]: https://earthengine.google.com/
