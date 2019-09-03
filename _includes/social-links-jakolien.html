@@ -1,14 +1,5 @@
 <div class="social-links">
 
-    {% if site.team.twitter %}
-    <a class="link" data-title="twitter.com/{{ site.twitter }}" href="http://twitter.com/{{ site.twitter }}"
-       target="_blank">
-        <svg class="icon icon-twitter">
-            <use xlink:href="#icon-twitter"></use>
-        </svg>
-    </a>
-    {% endif %}
-
     {% if site.team.linkedin %}
     noop
     {% endif %}
@@ -18,10 +9,9 @@
     {% endif %}
 
     {% if site.team.github %}
-    <a class="link" data-title="github.com/Jakolien" href="https://github.com/Jakolien" target="_blank">
-        <svg class="icon icon-github">
-            <use xlink:href="#icon-github"></use>
-        </svg>
+    <a class="btn btn-social-icon btn-github" data-title="github.com/Jakolien" href="https://github.com/Jakolien"
+       target="_blank">
+        <span class="fa fa-github"></span>
     </a>
     {% endif %}
 
@@ -38,10 +28,9 @@
     {% endif %}
 
     {% if site.team.email %}
-    <a class="link" data-title="jakolien.meer.@gmail.com" href="mailto:jakolien.meer.@gmail.com">
-        <svg class="icon icon-mail">
-            <use xlink:href="#icon-mail"></use>
-        </svg>
+    <a class="btn btn-social-icon btn-openid" data-title="jakolien.meer.@gmail.com"
+       href="mailto:jakolien.meer.@gmail.com">
+        <span class="fa fa-envelope"></span>
     </a>
     {% endif %}
 </div>

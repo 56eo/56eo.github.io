@@ -1,11 +1,10 @@
 <div class="social-links">
 
     {% if site.team.twitter %}
-    <a class="link" data-title="twitter.com/robertotjesse" href="http://twitter.com/{{ robertotjesse }}"
+    <a class="btn btn-social-icon btn-twitter" data-title="twitter.com/robertotjesse"
+       href="http://twitter.com/robertotjesse"
        target="_blank">
-        <svg class="icon icon-twitter">
-            <use xlink:href="#icon-twitter"></use>
-        </svg>
+        <span class="fa fa-twitter"></span>
     </a>
     {% endif %}
 
@@ -18,10 +17,9 @@
     {% endif %}
 
     {% if site.team.github %}
-    <a class="link" data-title="github.com/robertotjesse" href="https://github.com/{{ robertotjesse }}" target="_blank">
-        <svg class="icon icon-github">
-            <use xlink:href="#icon-github"></use>
-        </svg>
+    <a class="btn btn-social-icon btn-github" data-title="github.com/robertotjesse"
+       href="https://github.com/robertotjesse" target="_blank">
+        <span class="fa fa-github"></span>
     </a>
     {% endif %}
 
@@ -38,10 +36,8 @@
     {% endif %}
 
     {% if site.team.email %}
-    <a class="link" data-title="robertobeth@gmail.com" href="mailto:robertobeth@gmail.com">
-        <svg class="icon icon-mail">
-            <use xlink:href="#icon-mail"></use>
-        </svg>
+    <a class="btn btn-social-icon btn-openid" data-title="robertobeth@gmail.com" href="mailto:robertobeth@gmail.com">
+        <span class="fa fa-envelope"></span>
     </a>
     {% endif %}
 </div>
