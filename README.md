@@ -1,6 +1,10 @@
 56eo
 =================
 
+## vendor StyleSheets
+
+- [Bootstrap](https://getbootstrap.com/docs/3.3/css/)
+- [Social Buttons for Bootstrap](http://lipis.github.io/bootstrap-social/)
 
 ## Local development using Docker
 
