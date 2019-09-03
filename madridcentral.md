@@ -9,11 +9,15 @@ title: Madrid Central
 
 Madrid's City Hall have introduced new restrictions on traffic in the heart of the capital. This measurement was aligned with the air quality strategy for reducing the high values of pollution were matched last years in the town.
 
+<br/>
+
 #### Lifetime:
 * **30th nov 2018**: Started
 * **1st jul-30th sep 2019**: Right party, Ciudadanos and VOX want to apply a moratorium on sanctions  for citizens who enter in madrid
 Only from 1-8th jul 2019: it was admitted that moratorium bc several green parties and institutions pushed.
 * **Jul 2019**: Europe commission sentence Spain for: systematically violate "legal nitrogen dioxide (NO2) limits. Specially at Madrid, Barcelona y Vallès-Baix Llobregat.
+
+<br/>
 
 #### Main points:
 472 hectares of the city center off-limits to traffic
@@ -23,6 +27,7 @@ exceptions are made for people with reduced mobility, ambulances, taxis, private
 Electric vehicles will also be allowed
 Map restriction:
 * [El Pais: Madrid takes historic step to becoming a car-free city center](https://elpais.com/elpais/2018/11/30/inenglish/1543565577_207058.amp.html)
+
 <br/>
 
 #### Expectation:
@@ -33,6 +38,8 @@ Moreover, Comparing the median of the first three months from 2011-2018 to confr
 Looking at the adverse air quality situation in Madrid, we conduct a new visualization of tropospheric NO2 via spatial and temporal scale by analysing satellite images.
 NO2 has been monitored by satellite since 1995 with GOME, since 2002 with SCIAMACHY, and since 2004 with the OMI instrument; the latter two instruments having the advantage of a high spatial resolution. As the last satellite, Sentinel 5p is in charged to monitor the atmosphere conditions Launched in October 2017.
 This is an experiment aiming at giving more transparency to the Madrid’s citizens according pollution trends.
+
+<br/>
 
 #### Links to understand intro
 
@@ -45,6 +52,7 @@ RESULTS (briefly documented app along time, WHAT DO WE EXPECT FROM):
 * [CO concentrations in the troposphere at 850 hPa](https://twitter.com/AntjeInness/status/1154697090490142721?s=19)
 
 <br/>
+
 #### Marketing
 
 * Collaboration with “calida del aire comunidad de madrid”
@@ -56,6 +64,7 @@ RESULTS (briefly documented app along time, WHAT DO WE EXPECT FROM):
 * European comissioner and related with madrid case: @MAC_europa
 
 <br/>
+
 #### Workflow
 * Download vector layer (neightborhoods, buildings)
 * Create Twitter 56eo and link to a broad fruitful network
@@ -65,6 +74,7 @@ RESULTS (briefly documented app along time, WHAT DO WE EXPECT FROM):
 Extract NO2 troposphere, not stratosphere, have a look pag 15-76 - TO KNOW
 
 <br/>
+
 #### APPS that already exist
 * [Mapped: nitrogen dioxide pollution around the world](https://unearthed.greenpeace.org/2018/10/29/nitrogen-dioxide-no2-pollution-world-map/)
 * [Greenpeace Media Briefing](https://www.greenpeace.org.au/research/new-satellite-data-reveals-worlds-largest-air-pollution-emission-hotspots-greenpeace-media-briefing/)
