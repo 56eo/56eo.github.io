@@ -16,7 +16,7 @@ CEO & Founder. He is a mapmaker  and longtime engineer professional. At 56EO, he
   <img src="/assets/images/RobertoBeth_Small.jpeg">
 </p>
 ## Roberto Beth
-CTO & Founder. Roberto completed his studies with a Bs’c in Forestry specializing in remote sensing at the UPV in Spain. Hereafter he completed a MS’c in Spatial Information Management at FH Karnten in Austria, specializing in Environmental Monitoring. During his time in Austria he was selected to develop his thesis as external researcher at the Texas A&M University in the US. His expertise are data workflows to process observation data and Decision Support Systems based on GIS. He worked as a GIS expert for the Swiss National Park and the EAWAG , developing a Multi Decision Support System to assess water management in Alpine Regions. At the moment he coordinates the GIS data intake and outtake for n-sea in the Netherlands, while he cooperates for 56EO.
+CTO & Founder. Roberto completed his studies with a MS’c in Spatial Information Management at Carinthian University of Applied Sciences, specializing in Environmental Monitoring. His expertise are Data workflows and Decision Support Systems based on GIS. At the moment he coordinates the GIS data intake and outtake for n-sea in the Netherlands, while cooperating with 56EO.
 
 {% include social-links-roberto.html %}
 
@@ -25,6 +25,5 @@ CTO & Founder. Roberto completed his studies with a Bs’c in Forestry specializ
   <img src="/assets/images/JakolienMeer_Small.jpeg">
 </p>
 ## Jakolien van der Meer
-R&D Applied mathematician with a specialization in numerical analysis and fluid dynamics, optimization and applied geosciences. Strong analytical skills and good at translating complex dynamic systems into manageable and computer controlled models. Thanks to my broad interest and problem solving ability, I can quickly master new areas of study. Besides, I am good at presenting my results, both written and orally, and through visualization.
-
+R&D Applied mathematician with a specialization in numerical analysis and fluid dynamics, optimization and applied geosciences. Jakolien has strong analytical skills and is good at translating complex dynamic systems into manageable and computer controlled models. Currently she develops our AI model, relating Satellite observations with street level measurements.
 {% include social-links-jakolien.html %}
