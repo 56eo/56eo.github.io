@@ -16,7 +16,7 @@ CEO & Founder. He is a mapmaker  and longtime engineer professional. At 56EO, he
   <img src="/assets/images/RobertoBeth_Small.jpeg">
 </p>
 ## Roberto Beth
-CTO & Founder. Roberto completed his studies with a MS’c in Spatial Information Management at Carinthian University of Applied Sciences, specializing in Environmental Monitoring. His expertise are Data workflows and Decision Support Systems based on GIS. At the moment he coordinates the GIS data intake and outtake for n-sea in the Netherlands, while cooperating with 56EO.
+CTO & Founder. Roberto completed his studies with a MS’c in Spatial Information Management at Carinthian University of Applied Sciences, specializing in Environmental Monitoring. His expertise are Data workflows and Decision Support Systems based on GIS. At the moment he coordinates the GIS data intake and out-take for n-sea in the Netherlands, while cooperating with 56EO.
 
 {% include social-links-roberto.html %}
 
