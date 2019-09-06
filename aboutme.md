@@ -8,10 +8,10 @@ title: false
 ----
 
 #### Expertise
-* Remote sensingiven strategies to improve gre
+* Remote sensing given strategies to improve green policies
 * Machine Learning
 * GIS
-* software project management
+* Software project management
 
 ![](https://56eo.github.io/assets/images/workshape.png)
 
