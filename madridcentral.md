@@ -13,9 +13,8 @@ Madrid's City Hall have introduced new restrictions on traffic in the heart of t
 
 #### Lifetime:
 * **30th nov 2018**: Started
-* **1st jul-30th sep 2019**: Right party, Ciudadanos and VOX want to apply a moratorium on sanctions  for citizens who enter in madrid
-Only from 1-8th jul 2019: it was admitted that moratorium bc several green parties and institutions pushed.
-* **Jul 2019**: Europe commission sentence Spain for: systematically violate "legal nitrogen dioxide (NO2) limits. Specially at Madrid, Barcelona y Vallès-Baix Llobregat.
+* **1st jul-30th sep 2019**: Admitted moratorium for citizens from 1-8th jul 2019.
+* **Jul 2019**: Europe commission sentence Spain for: systematically violate “legal nitrogen dioxide (NO2) limits.
 
 <br/>
 
@@ -53,30 +52,9 @@ RESULTS (briefly documented app along time, WHAT DO WE EXPECT FROM):
 
 <br/>
 
-#### Marketing
-
-* Collaboration with “calida del aire comunidad de madrid”
-* Collaboration with TRAFICO. They can show along highways how one produces pollution and how that influence in his or her neighborhood.
-* Collaboration with a newspaper or all of them
-* Collaboration with “universidad politecnica de madrid”
-* Publish to twitter
-* Principal responsible of mapping new european rights in meditarrean and associated with madrid central issue: @KarmenuVella
-* European comissioner and related with madrid case: @MAC_europa
-
-<br/>
-
 #### Workflow
 * Download vector layer (neightborhoods, buildings)
 * Create Twitter 56eo and link to a broad fruitful network
 * Download sahpefile of “zona restringida de trafico”
 * GEE- extract NO2 or others or others
-* vectorizing all the tiffs via google earth engine to lighten workload ?-Ideally all the work is done on the platform itself, otherwise manually at home-
-Extract NO2 troposphere, not stratosphere, have a look pag 15-76 - TO KNOW
-
-<br/>
-
-#### APPS that already exist
-* [Mapped: nitrogen dioxide pollution around the world](https://unearthed.greenpeace.org/2018/10/29/nitrogen-dioxide-no2-pollution-world-map/)
-* [Greenpeace Media Briefing](https://www.greenpeace.org.au/research/new-satellite-data-reveals-worlds-largest-air-pollution-emission-hotspots-greenpeace-media-briefing/)
-* [EOC Geo-service](https://geoservice.dlr.de/web/maps/s5p:tropomi:l3:daily)
-* [Air Quality](https://earthdata.nasa.gov/earth-observation-data/near-real-time/hazards-and-disasters/air-quality)
+* vectorizing all the tiffs via google earth engine to lighten workload ?-Ideally all the work is done on the platform itself, otherwise manually at home- Extract NO2 troposphere, not stratosphere, have a look pag 15-76 - TO KNOW
