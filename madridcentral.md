@@ -54,7 +54,6 @@ RESULTS (briefly documented app along time, WHAT DO WE EXPECT FROM):
 
 #### Workflow
 * Download vector layer (neightborhoods, buildings)
-* Create Twitter 56eo and link to a broad fruitful network
 * Download sahpefile of “zona restringida de trafico”
-* GEE- extract NO2 or others or others
-* vectorizing all the tiffs via google earth engine to lighten workload ?-Ideally all the work is done on the platform itself, otherwise manually at home- Extract NO2 troposphere, not stratosphere, have a look pag 15-76 - TO KNOW
+* GEE- extract NO2 and others
+* Vectorizing all the tiffs
