@@ -6,7 +6,7 @@ title: false
 <p align="center">
   <img src="/assets/images/MarioPalacios_Small.jpeg">
 </p>
-## Mario Palacios Landi
+## Mario Palacios
 CEO & Founder. He is a mapmaker  and longtime engineer professional. At 56EO, he leads the initiative for innovative applications in earth observation, which supports stakeholders in applying satellite mapping tools to relevant problems in areas such as environmental conservation and sustainable society by air quality management.
 
 {% include social-links-mario.html %}
