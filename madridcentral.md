@@ -1,9 +1,17 @@
 ---
 layout: page
-title: Madrid Central
+title: Air-Pannel
+subtitle: Case study: Madrid-Central
 ---
 
 ![](https://56eo.github.io/assets/images/Madrid_Central.gif)
+
+
+**Air-Pannel** is an efficient Air quality indicator pannel based in satellite and ground sensor data for regional and local managers. **Air-Pannel** displays indicator values with imagery that gives comprehensive data for air quality risk planning to launch and grow successful actionable plans. This is a measure of climate change adaption.
+
+We work in the following case study called Madrid Central.
+
+-------
 
 #### Background:
 
