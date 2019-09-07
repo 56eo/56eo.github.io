@@ -30,13 +30,11 @@ Map restriction:
 <br/>
 
 #### Expectation:
-will reduce emissions NOx by 30-40% as a result of eliminating through traffic and banning the biggest polluters from the area.
-Even so, They only have one field station called “del Carmen” which measures air quality in the “zona restringida” among 24 stations around Madrid center. And after activating the restriction plan, Carmen's station got lower pollution values, even though the others stations continues increasing.
-Although, the first three months of 2019 have been the worst, only after 2011 and 2012. And we only can compare from 2011 because in 2010 the location office the measurement stations was changed.
-Moreover, Comparing the median of the first three months from 2011-2018 to confront the one in 2019 in terms of removing the meteorological factor, we conclude that 2019 is still above the median.
 Looking at the adverse air quality situation in Madrid, we conduct a new visualization of tropospheric NO2 via spatial and temporal scale by analysing satellite images.
-NO2 has been monitored by satellite since 1995 with GOME, since 2002 with SCIAMACHY, and since 2004 with the OMI instrument; the latter two instruments having the advantage of a high spatial resolution. As the last satellite, Sentinel 5p is in charged to monitor the atmosphere conditions Launched in October 2017.
-This is an experiment aiming at giving more transparency to the Madrid’s citizens according pollution trends.
+NO2 has been monitored by satellite since 1995 with GOME, since 2002 with SCIAMACHY, and since 2004 with the OMI instrument; the latest two instruments having the disadvantage of a low spatial resolution.
+
+As the last satellite, Sentinel 5p is in charged to monitor the atmosphere conditions launched in October 2017, and this one has 6 times resolution more than the last ones.
+This is an experiment aiming at giving more transparency to the Madrid’s city managers for a better decision making for green policies according pollution trends.
 
 <br/>
 
