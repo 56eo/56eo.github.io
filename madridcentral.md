@@ -1,7 +1,6 @@
 ---
 layout: page
 title: false
-subtitle: Case study: Madrid-Central
 ---
 # Air-Pannel
 ## Case study: Madrid-Central
