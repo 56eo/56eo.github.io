@@ -3,9 +3,6 @@ layout: page
 title: Air-Pannel
 subtitle: Case study: Madrid-Central
 ---
-
-# Air-Pannel
-
 ## Case study: Madrid-Central
 ----
 
