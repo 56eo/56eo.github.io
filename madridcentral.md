@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Air-Pannel
+title: false
 subtitle: Case study: Madrid-Central
 ---
+# Air-Pannel
 ## Case study: Madrid-Central
 ----
 
