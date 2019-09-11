@@ -7,7 +7,7 @@ title: false
   <img src="/assets/images/MarioPalacios_Small.jpeg">
 </p>
 ## Mario Palacios
-CEO & Founder. He is a mapmaker  and longtime engineer professional. At 56EO, he leads the initiative for innovative applications in earth observation, which supports stakeholders in applying satellite mapping tools to relevant problems in areas such as environmental conservation and sustainable society by air quality management.
+CEO & Founder. Mario studied a MS's in Urban design at University of Zurich (ETH) and a BS's at University of Madrid (UPM) in civil engineering. He has been exercising  3D technology and geomatic tools as a mapmaker and longtime engineer profession. At 56EO, he leads the initiative for innovative applications in earth observation.
 
 {% include social-links-mario.html %}
 
