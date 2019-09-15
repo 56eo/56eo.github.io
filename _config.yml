@@ -255,7 +255,7 @@ team:
   twitter: true
   github: true
   email: true
-  linkedin: false
+  linkedin: true
   youtube: false
   stackoverflow: false
   quora: false
