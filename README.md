@@ -10,7 +10,7 @@
 
 1. Make sure you have [Docker](https://www.docker.com/) installed.
 
-2. Clone your repository locally.
+2. Clone your repository locally. Try it
 
     ```bash
     git clone https://github.com/<your_username>/<your_username>.github.io.git
@@ -37,7 +37,7 @@ And you can stop the server with:
 sudo docker stop 56eo
 ```
 
-Whenever you make any change in the project you should restart the image 
+Whenever you make any change in the project you should restart the image
 and refresh web page http://localhost:4000/
 ```bash
 sudo docker restart 56eo
