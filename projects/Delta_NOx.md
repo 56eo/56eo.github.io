@@ -17,7 +17,7 @@ We work in the following case study called **Delta NO<sub>x</sub>**.
 
 #### Background:
 
-The nitrogen levels in the Netherlands have consistently exceeded European maximum levels, due to a high population density, traffic intensity and agricultural production. In 2019 this lead to the so called nitrogen-crisis, which immediately required political actions like reducing the maximum speed from 130 to 100 km/h on all highways, putting a stop on building activities and trying to reduce ammonia (NH<sub>4</sub>) deposition and atmosphere emission in the agricultural sector. These strict measurements resulted farmers and builders protests, who were doubting the air-quality measurements that were done based on ground-sensors.
+The nitrogen levels in the Netherlands have consistently exceeded European maximum levels, due to a high population density, traffic intensity and agricultural production. In 2019 this lead to the so called nitrogen-crisis, which immediately required political actions like reducing the maximum speed from 130 to 100 km/h on all highways, putting a stop on building activities and trying to reduce ammonia (NH<sub>4</sub>) deposition and atmosphere emission in the agricultural sector. These strict measurements resulted in protests among farmers and builders, who were also doubting the validity of air-quality ground-sensor measurements that were done by the RIVM (National Institute for Public Health and the Environment).
 
 <br/>
 
@@ -26,7 +26,7 @@ In this project we provide improved spatial-temporal information on No<sub>x</su
 
 <br/>
 
-#### Delta NOx lifetime:
+#### Delta NO<sub>x</sub> lifetime:
 * **May 2019**: New nitrogen law puts stop or severe delay on many building activities in the Netherlands .
 * **October 2019**: Start of Delta NO<sub>x</sub> project.
 * **November 2019**: A new law reducing the traffic speed to 100 km/h is passed through government.
