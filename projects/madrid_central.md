@@ -2,14 +2,14 @@
 layout: page
 title: false
 ---
-# Air-Pannel
+# Air-Panel
 ## Case study: Madrid-Central
 ----
 
 ![](https://56eo.github.io/assets/images/Madrid_Central.gif)
 
 
-**Air-Pannel** is an efficient Air quality indicator pannel based on satellite and ground sensor data for regional and local managers. **Air-Pannel** displays indicator values with imagery that gives comprehensive data for air quality risk planning to launch and grow successful actionable plans. This is a measure of climate change adaption.
+**Air-Panel** is an efficient Air quality indicator panel based on satellite and ground sensor data for regional and local managers. **Air-Panel** displays indicator values with imagery that gives comprehensive data for air quality risk planning to launch and grow successful actionable plans. This is a measure of climate change adaption.
 
 We work in the following case study called **Madrid Central**.
 
@@ -39,8 +39,8 @@ This is an experiment aiming at giving more transparency to the Madrid’s city 
 <br/>
 
 #### Workflow
-* Download vector layer (neightborhoods, buildings)
-* Download sahpefile of “zona restringida de trafico”
+* Download vector layer (neighborhoods, buildings)
+* Download shapefile of “zona restringida de trafico”
 * GEE- extract NO2 and others
 * Vectorizing all the tiffs
 * Comparing output with ground data
