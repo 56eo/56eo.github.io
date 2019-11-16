@@ -17,7 +17,7 @@ We work in the following case study called **Madrid Central**.
 
 #### Background:
 
-Madrid's City Hall have introduced new restrictions on traffic in the heart of the capital. This measurement was aligned with the air quality strategy for reducing the high values of pollution were matched last years in the town.
+Madrid's City Hall have introduced new restrictions on traffic in the heart of the capital. This measurement was taken at the same time as a new air quality strategy was launched for reducing the high values of pollution that were measured over the last years.
 
 <br/>
 
