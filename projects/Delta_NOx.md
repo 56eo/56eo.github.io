@@ -6,7 +6,7 @@ title: false
 ## Case study: Delta NOx
 ----
 
-![](https://56eo.github.io/assets/images/Madrid_Central.gif)
+![](https://56eo.github.io/assets/images/luchtvervuiling_bron_groenlinks.jpg)
 
 
 **Air-Panel** is an efficient Air quality indicator panel based on satellite and ground sensor data for regional and local managers. **Air-Panel** displays indicator values with imagery that gives comprehensive data for air quality risk planning to launch and grow successful actionable plans. This is a measure of climate change adaption.
@@ -27,8 +27,8 @@ In this project we provide improved spatial-temporal information on Nox levels a
 <br/>
 
 #### Delta NOx lifetime:
-* **October 2019**: Start of project.
-* **October 2019**: Stop is put on all building activities in the Netherlands.
+* **May 2019**: New nitrogen law puts stop or severe delay on many building activities in the Netherlands .
+* **October 2019**: Start of Delta NOx project.
 * **November 2019**: A new law reducing the traffic speed to 100 km/h is passed through government.
 
 <br/>
