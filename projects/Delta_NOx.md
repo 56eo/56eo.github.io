@@ -9,7 +9,7 @@ title: false
 ![](https://56eo.github.io/assets/images/luchtvervuiling_bron_groenlinks.jpg)
 
 
-**Air-Panel** is an efficient Air quality indicator panel based on satellite and ground sensor data for regional and local managers. **Air-Panel** displays indicator values with imagery that gives comprehensive data for air quality risk planning to launch and grow successful actionable plans. This is a measure of climate change adaption.
+**Air-Panel** is an efficient air quality indicator panel based on satellite and ground sensor data, for regional and local policy makers. **Air-Panel** is a platform which provides comprehensive data and imagery on air-pollution and is meant to serve as a toolbox for air quality risk planning and to launch and grow successful action plans. It also provides individual cities and ports with a measure of climate change adaptability.
 
 We work in the following case study called **Delta NO<sub>x</sub>**.
 
@@ -23,6 +23,8 @@ The nitrogen levels in the Netherlands have consistently exceeded European maxim
 
 #### Case study:
 In this project we provide improved spatial-temporal information on No<sub>x</sub> levels at every location of the Netherlands by translating satellite-based pollution data to ground-level values.
+NO<sub>2</sub> has been monitored by satellites since 1995 with GOME, since 2002 with SCIAMACHY, and since 2004 with the OMI instrument. These instruments had the disadvantage of a low spatial resolution. The newest satellite, Sentinel 5p, that is in charge to monitor atmosphere conditions, was launched in October 2017. It has a 6 times higher spatial resolution than is predecessor. This makes it possible to come up with a lot of new information on the NO<sub>2</sub> levels in the Netherlands. 
+We verify the processed data with ground-sensor data from the Pandora spectrometers and compare it with the data that the RIVM  provides.
 
 <br/>
 

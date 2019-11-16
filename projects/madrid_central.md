@@ -9,7 +9,7 @@ title: false
 ![](https://56eo.github.io/assets/images/Madrid_Central.gif)
 
 
-**Air-Panel** is an efficient Air quality indicator panel based on satellite and ground sensor data for regional and local managers. **Air-Panel** displays indicator values with imagery that gives comprehensive data for air quality risk planning to launch and grow successful actionable plans. This is a measure of climate change adaption.
+**Air-Panel** is an efficient air quality indicator panel based on satellite and ground sensor data, for regional and local policy makers. **Air-Panel** is a platform which provides comprehensive data and imagery on air-pollution and is meant to serve as a toolbox for air quality risk planning and to launch and grow successful action plans. It also provides individual cities and ports with a measure of climate change adaptability.
 
 We work in the following case study called **Madrid Central**.
 
@@ -30,11 +30,7 @@ Madrid's City Hall have introduced new restrictions on traffic in the heart of t
 <br/>
 
 #### Case study:
-Looking at the adverse air quality situation in Madrid, we conduct a new visualization of tropospheric NO2 via spatial and temporal scale by analyzing satellite images.
-NO2 has been monitored by satellite since 1995 with GOME, since 2002 with SCIAMACHY, and since 2004 with the OMI instrument; the latest two instruments having the disadvantage of a low spatial resolution.
-
-As the last satellite, Sentinel 5P is in charge to monitor the atmosphere conditions launched in October 2017, and this one has 6 times the spatial resolution of  the last ones.
-This is an experiment aiming at giving more transparency to the Madrid’s city managers for a better decision making for green policies according pollution trends.
+Looking at the adverse air quality situation in Madrid, we conduct a new visualization of tropospheric NO<sub>2</sub> on a spatial and temporal scale by analyzing satellite images. NO<sub>2</sub> has been monitored by satellites since 1995 with GOME, since 2002 with SCIAMACHY, and since 2004 with the OMI instrument. These instruments had the disadvantage of a low spatial resolution. The newest satellite, Sentinel 5p, that is in charge to monitor atmosphere conditions, was launched in October 2017. It has a 6 times higher spatial resolution than is predecessor. This makes it possible to come up with a lot of new information on air quality in harbors on a day-to-day scale.
 
 <br/>
 
