@@ -29,9 +29,11 @@ We verify the processed data with ground-sensor data from the Pandora spectromet
 <br/>
 
 #### Delta NO<sub>x</sub> lifetime:
-* **May 2019**: New nitrogen law puts stop or severe delay on many building activities in the Netherlands .
+* **May 2019**: Court ruling of the Council of State puts stop or severe delay on many building activities in the Netherlands, because of harmful nitrogen emissions.
+* **September 2019**: First advice rapport Nitrogen Commission Remkes on Nitrogen problem in the Netherlands is published.
 * **October 2019**: Start of Delta NO<sub>x</sub> project.
 * **November 2019**: A new law reducing the traffic speed to 100 km/h is passed through government.
+* **December 2019**: The Dutch government will introduce new plans to reduce nitrogen on the long haul. Second advice Nitrogen Commission Remkes expected.
 
 <br/>
 
