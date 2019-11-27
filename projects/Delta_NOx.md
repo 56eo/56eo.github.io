@@ -6,7 +6,7 @@ title: false
 ## Case study: Delta NO<sub>x</sub>
 ----
 
-![](https://56eo.github.io/assets/images/luchtvervuiling_bron_groenlinks.jpg)
+![](https://56eo.github.io/assets/images/GIF_GIS02.gif)
 
 
 **Air-Panel** is an efficient air quality indicator panel based on satellite and ground sensor data, for regional and local policy makers. **Air-Panel** is a platform which provides comprehensive data and imagery on air-pollution and is meant to serve as a toolbox for air quality risk planning and to launch and grow successful action plans. It also provides individual cities and ports with a measure of climate change adaptability.
